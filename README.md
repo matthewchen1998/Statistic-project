@@ -1,1 +1,1 @@
-this is the project we done for Stat 334 class at California Polytechnic State University, San Luis obispo
+these are the projects me and my fellow classmates have done for several Statistic classes at California Polytechnic State University, San Luis obispo
